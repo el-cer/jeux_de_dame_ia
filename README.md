@@ -1,1 +1,1 @@
-# jeux_de_dame_ia
+# checker_game
